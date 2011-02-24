@@ -1,0 +1,14 @@
+.notice, .header, .backbox {
+  padding: 5px;
+  width: 500px;
+  margin: 2px;
+  color: #1B1972;
+  border: 1px solid #0A477D;
+  background-color: #86BBEB;
+  font: bold 15px Arial;
+}
+
+.header {
+  border: 1px solid #F5FD16;
+  background-color: #EAF5C0;
+}
